@@ -1,0 +1,3 @@
+This program applies the Self-Initializing Quadratic Sieve (SIQS), with the "large prime" speed-up, to compute the discrete logarithm in the ideal class group of a quadratic order, based on Michael Jacobson's doctoral dissertation. To run this, NTL needs to be installed.
+
+This program is joint work with Jonathan Webster.
